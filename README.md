@@ -34,7 +34,3 @@ This section will include links to folders containing code for exercises and pro
 ## Feedback and Contribution
 
 Feel free to fork this repository and submit pull requests to contribute to or enhance the projects and exercises. Any feedback on the code and projects is highly appreciated.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
